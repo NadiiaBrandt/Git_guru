@@ -1,2 +1,2 @@
 # git-guru
-Hello, World!
+Salut, le Monde!
